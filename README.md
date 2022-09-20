@@ -11,6 +11,9 @@ Some of the Engineering Designs I made using AutoCad and Solidworks - <br />
 ![IMG-20220225-WA0170](https://user-images.githubusercontent.com/75140674/191370553-d055b5cd-1eac-4d55-b94e-560b8e10a1cc.jpg)<br />
 ![RobotArm inside looks](https://user-images.githubusercontent.com/75140674/191370586-f0fdd01a-41b9-4c3d-b023-f21f9f7cb786.png)<br />
 ![Robot-Arm-base-drive](https://user-images.githubusercontent.com/75140674/191370594-4de5842b-7d90-4305-801f-0b7904b40c27.png)<br />
+![IMG-20220222-WA0056](https://user-images.githubusercontent.com/75140674/191373677-03cfe02c-176d-47ee-9771-85980b7cc105.jpg)
+
+[Arm&Gripper.pdf](https://github.com/SwapnilSaha59/Ajantrik-Project-Works/files/9611536/Arm.Gripper.pdf)
 
 At last, here comes a Flex of my work environment ! X) <br />
 
